@@ -56,7 +56,7 @@ def game_hash
           :slam_dunks => 0
         },
         {
-          :player_name => "Jeff Adrien",
+          :player_name => "Kemba Walker",
           :number => 4,
           :shoe => 18,
           :points => 10,
