@@ -34,7 +34,7 @@ def game_hash
           :slam_dunks => 10
         },
         {
-          :player_name => "Jeff Adrien",
+          :player_name => "DeSagna Diop",
           :number => 4,
           :shoe => 18,
           :points => 10,
